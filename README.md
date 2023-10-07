@@ -5,3 +5,8 @@ Components:
 HTML: Sets up the basic structure of the webpage, including a container for the game board.
 CSS: Styles the game board and snake for a visually appealing interface.
 JavaScript: Implements the game logic, including handling user input, updating the snake's position, generating food, and checking for collisions. The game loop continuously moves the snake and updates the display.
+
+Game Features:
+
+The snake is initially positioned on the grid.
+The player can control the snake's direction using arrow keys.
