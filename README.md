@@ -10,3 +10,5 @@ Game Features:
 
 The snake is initially positioned on the grid.
 The player can control the snake's direction using arrow keys.
+The snake grows longer when it consumes food.
+Food appears at random positions on the grid.
