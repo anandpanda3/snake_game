@@ -12,3 +12,5 @@ The snake is initially positioned on the grid.
 The player can control the snake's direction using arrow keys.
 The snake grows longer when it consumes food.
 Food appears at random positions on the grid.
+The game ends if the snake collides with itself or the grid boundaries.
+After a collision, the game resets, and the player can play again.
