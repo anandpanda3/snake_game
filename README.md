@@ -15,3 +15,4 @@ The game ends if the snake collides with itself or the grid boundaries.
 After a collision, the game resets, and the player can play again.
 
 Enhancements:
+The code can be extended to include scoring, levels, and additional styling.
