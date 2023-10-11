@@ -25,3 +25,4 @@ Open the HTML file in a web browser.
 Use arrow keys to control the snake's direction.
 Try to eat the food to grow longer.
 Avoid collisions with the snake's own body and the grid boundaries.
+The game ends if a collision occurs, and it can be restarted.
