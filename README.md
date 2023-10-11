@@ -22,3 +22,5 @@ More features, such as obstacles or power-ups, can be added to increase complexi
 How to Play:
 
 Open the HTML file in a web browser.
+Use arrow keys to control the snake's direction.
+Try to eat the food to grow longer.
