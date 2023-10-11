@@ -18,3 +18,7 @@ Enhancements:
 The code can be extended to include scoring, levels, and additional styling.
 Players can compete for high scores.
 More features, such as obstacles or power-ups, can be added to increase complexity.
+
+How to Play:
+
+Open the HTML file in a web browser.
