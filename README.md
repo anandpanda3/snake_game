@@ -16,3 +16,4 @@ After a collision, the game resets, and the player can play again.
 
 Enhancements:
 The code can be extended to include scoring, levels, and additional styling.
+Players can compete for high scores.
